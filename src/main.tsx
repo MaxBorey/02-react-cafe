@@ -1,4 +1,3 @@
-// src/main.tsx
 import "modern-normalize";
 import "./global.css";
 import React from "react";
